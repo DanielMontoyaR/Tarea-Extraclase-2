@@ -1,0 +1,4 @@
+C:\Users\Daniel Montoya\Desktop\Extraclase 2\ServerTest\x64\Debug\ServerTest.vcxproj.CopyComplete
+C:\Users\Daniel Montoya\Desktop\Extraclase 2\ServerTest\x64\Debug\ServerTest.exe
+C:\Users\Daniel Montoya\Desktop\Extraclase 2\ServerTest\x64\Debug\gtest.pdb
+C:\Users\Daniel Montoya\Desktop\Extraclase 2\ServerTest\x64\Debug\gtest_main.pdb

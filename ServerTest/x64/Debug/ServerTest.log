@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\Daniel Montoya\Desktop\Extraclase 2\ServerTest\test.cpp(91,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Daniel Montoya\Desktop\Extraclase 2\ServerTest\test.cpp(109,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ServerTest.vcxproj -> C:\Users\Daniel Montoya\Desktop\Extraclase 2\ServerTest\x64\Debug\ServerTest.exe
